@@ -21,7 +21,7 @@
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github,linux&theme=dark" alt="C, C++, Python, Java, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github&theme=dark" alt="C, C++, Python, Java, Git and GitHub" />
 </p>
 
 ## 🚀 Currently learning
